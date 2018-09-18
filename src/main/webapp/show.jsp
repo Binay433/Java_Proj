@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>This is the tittle of inner page!</title>
 </head>
 <body bgcolor="cyan">
 	

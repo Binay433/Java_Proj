@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World! This is just another string to be added</h2>
 	<form action="getData">
 		<input type="text" name="aid">
 		<input type="text" name="aname">
