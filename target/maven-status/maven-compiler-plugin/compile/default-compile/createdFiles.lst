@@ -1,0 +1,3 @@
+com\training\pkg\GetDataController.class
+com\training\pkg\dao\AlienDao.class
+com\training\pkg\model\Alien.class
