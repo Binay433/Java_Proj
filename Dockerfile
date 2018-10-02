@@ -3,4 +3,4 @@
 FROM tomcat:8.0.20-jre8
 
 # Copy the current directory contents into the container at /app
-COPY HelloWithDocker.war /usr/local/tomcat/webapps/
+COPY HelloWithDocker.war /usr/share/tomcat8/webapps
